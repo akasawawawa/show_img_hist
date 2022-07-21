@@ -5,7 +5,7 @@ from skimage.io import imread
 
 
 # download the image
-img_url = 'https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Grus_grus_1_(Marek_Szczepanek).jpg'
+img_url = 'https://upload.wikimedia.org/wikipedia/commons/4/40/Grus_grus_1_%28Marek_Szczepanek%29.jpg'
 
 im = imread(img_url)
 
