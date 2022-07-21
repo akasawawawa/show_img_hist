@@ -5,7 +5,7 @@ from skimage.io import imread
 
 
 # download the image
-img_url = 'q.wwwzczepanek%29.jpg'
+img_url = 'q.wwwzczepanek%29.jpg'   
 
 im = imread(img_url)
 
